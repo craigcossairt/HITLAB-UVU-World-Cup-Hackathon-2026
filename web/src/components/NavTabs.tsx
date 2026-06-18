@@ -5,6 +5,7 @@ const TABS = [
   { href: "/compare", key: "compare", label: "Equal Data Rights" },
   { href: "/maintenance", key: "maintenance", label: "Maintenance" },
   { href: "/scale", key: "scale", label: "Scale" },
+  { href: "/sedi", key: "sedi", label: "SEDI" },
 ];
 
 export function NavTabs({ active }: { active: string }) {
