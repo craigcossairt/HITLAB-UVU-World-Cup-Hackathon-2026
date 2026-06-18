@@ -9,8 +9,7 @@ export type WorkbenchView =
   | "compare"
   | "versions"
   | "redaction"
-  | "sedi"
-  | "settings";
+  | "sedi";
 
 export type ReviewType = "qa_flag" | "legislative" | "inconsistency";
 
